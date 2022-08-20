@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         val abdo="djjdj"
         abdo.length
+        i wannaaaaaaaaaa hold you when i am not supposed to do
         val navController = findNavController(R.id.nav_host_fragment_content_main)
         appBarConfiguration = AppBarConfiguration(navController.graph)
         setupActionBarWithNavController(navController, appBarConfiguration)
