@@ -30,6 +30,9 @@ class MainActivity : AppCompatActivity() {
         val abdo="djjdj"
         abdo.length
         i wannaaaaaaaaaa hold you when i am not supposed to do
+            don't tell me you can't
+        cause you fucking can ❤❤❤
+        maybe you we , can be keep each other a company
         val navController = findNavController(R.id.nav_host_fragment_content_main)
         appBarConfiguration = AppBarConfiguration(navController.graph)
         setupActionBarWithNavController(navController, appBarConfiguration)
